@@ -1,0 +1,69 @@
+[33mcommit 9d876fb230cb0eb14c98d0dc3299448317775e67[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: tlschdaud <tlschdaud1@naver.com>
+Date:   Fri Jun 2 22:19:20 2023 +0900
+
+    작업1 완료
+
+[33mcommit 11fac1862779a74e142d237cc7a3cf03943a8f96[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: tlschdaud <tlschdaud1@naver.com>
+Date:   Tue May 30 23:16:45 2023 +0900
+
+    작업5 완료
+
+[33mcommit 6d4c8896d18d4c02cb7c3b4808df56e9a657c49e[m[33m ([m[1;32mcart2[m[33m)[m
+Author: tlschdaud <tlschdaud1@naver.com>
+Date:   Tue May 30 23:13:18 2023 +0900
+
+    작업4 완료
+
+[33mcommit 540a7c178f9b3eea912aade5faa823aa53499658[m
+Merge: 605957a f618120
+Author: tlschdaud <119427608+tlschdaud@users.noreply.github.com>
+Date:   Tue May 30 22:58:30 2023 +0900
+
+    Merge pull request #1 from tlschdaud/cart
+    
+    장바구니
+
+[33mcommit f618120d3b59243ecc3e50e46c914264f965fc7e[m[33m ([m[1;31morigin/cart[m[33m, [m[1;32mcart[m[33m)[m
+Author: tlschdaud <tlschdaud1@naver.com>
+Date:   Tue May 30 22:55:39 2023 +0900
+
+    장바구니
+
+[33mcommit 605957a4ed6eedb765d62411dc6a263b0dd29a8d[m[33m ([m[1;32mfunctest[m[33m)[m
+Merge: cfa3407 e24f2ec
+Author: tlschdaud <tlschdaud1@naver.com>
+Date:   Tue May 30 22:26:42 2023 +0900
+
+    Merge branch 'cart' into functest
+
+[33mcommit cfa3407fbbb5463bbc3acc7164725ca7b44f89b0[m[33m ([m[1;31morigin/member[m[33m, [m[1;32mmember[m[33m)[m
+Author: tlschdaud <tlschdaud1@naver.com>
+Date:   Tue May 30 22:22:21 2023 +0900
+
+    회원가입기능 구현
+
+[33mcommit e24f2ec76f70114b2c842b61b26b6a618de89609[m
+Author: tlschdaud <tlschdaud1@naver.com>
+Date:   Tue May 30 22:09:25 2023 +0900
+
+    장바구니 작업 1 완료
+
+[33mcommit 448b9973ed2998d9c63e17cf928656b3041a5ad7[m
+Author: tlschdaud <tlschdaud1@naver.com>
+Date:   Tue May 30 21:56:25 2023 +0900
+
+    작업3 완료
+
+[33mcommit 84aa0144e0b376b97e5a5918ba79b06fa8a0b674[m
+Author: tlschdaud <tlschdaud1@naver.com>
+Date:   Tue May 30 21:55:07 2023 +0900
+
+    작업2 완료
+
+[33mcommit 9e5cea1251611f667d89c474ec8782cf051e2fa3[m
+Author: tlschdaud <tlschdaud1@naver.com>
+Date:   Tue May 30 21:51:26 2023 +0900
+
+    작업1 완료
